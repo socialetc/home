@@ -46,6 +46,6 @@ This Privacy Policy may be updated periodically to reflect changes in practices 
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-[Contact Us](https://link-to-your-contact-form.com)
+[Contact Us](https://github.com/socialetc/home/blob/main/contactus.md)
 
 **Last updated:** [Date]
